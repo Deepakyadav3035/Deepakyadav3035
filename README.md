@@ -14,7 +14,7 @@
 - Advanced CI/CD using Jenkins + Docker  
 
 👨‍💻 My Portfolio Projects:
-- 🚌 [Bus Booking System](https://github.com/Deepakyadav3035/bus-booking-system)
+- 🚌 [Buy and Sell Old Cars](https://github.com/Deepakyadav3035/Buy-and-Sell-Old-Cars)
 - 🏥 [Health Claim Processor](https://github.com/Deepakyadav3035/health-claim-system)
 - 🛒 [Grocery Inventory App](https://github.com/Deepakyadav3035/grocery-inventory)
 
