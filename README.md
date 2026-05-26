@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋, I'm Deepak Kumar Yadav
 
-<!--
-**Deepakyadav3035/Deepakyadav3035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Developer | Java Backend Developer
 
-Here are some ideas to get you started:
+Motivated Software Developer with hands-on training experience in Java, Spring Boot, JDBC, MySQL, HTML, CSS, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### Programming
+- Java 8
+- JavaScript
+- SQL
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
+- Spring Boot
+- JDBC
+- Hibernate
+- JPA
+- REST APIs
+- JWT Authentication
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Maven
+- Postman
+
+---
+
+## 📌 Featured Projects
+
+### 🚗 Motors Marketplace
+Vehicle Buy/Sell Platform using Java, Spring Boot, JDBC, and MySQL.
+
+### 🌐 Portfolio Website
+Responsive portfolio website using HTML, CSS, and JavaScript.
+
+---
+
+## 🔗 Connect With Me
+
+- LinkedIn:
+  https://www.linkedin.com/in/deepakyadavbackend
+
+- GitHub:
+  https://github.com/Deepakyadav3035
